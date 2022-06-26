@@ -1,4 +1,4 @@
-# MathC2+
+
 
 * But du sujet : Utiliser les sudokus pour faire une introduction aux quantificateurs logiques et à la programmation. L'objectif est de formaliser les règles du sudoku et de coder un vérificateur de grille et un solver si il y a assez de temps.
 
